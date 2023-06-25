@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 __NAME__ = "Pinion, Alexandro"
-__EMAIL__ = "apinion1@students.ksu.edu"
+__EMAIL__ = "apinion1@students.kennesaw.edu"
 __DESC__ = "Assignment 1 - Design Patterns - SWE6683 - Summer2023"
 
 #: Classes for decorator design pattern
